@@ -9,7 +9,7 @@
 #define dy 3
 int alan[119][30]={0};
 int gx=36,gy=3;
-
+a
 int giris=0;
 
 int hatali_giris=0;
