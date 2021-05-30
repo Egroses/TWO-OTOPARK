@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1622402615 source:c:\users\egroses\desktop\two otopark\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<locale.h>
+	"Twootopark.h"
+
+1622402857 c:\users\egroses\desktop\two otopark\twootopark.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<locale.h>
+
